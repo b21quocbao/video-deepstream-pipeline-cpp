@@ -1,3 +1,0 @@
-/opt/nvidia/deepstream/deepstream-5.1/sources/apps/sample_apps/deepstream-test2/build/CMakeFiles/rebuild_cache.dir
-/opt/nvidia/deepstream/deepstream-5.1/sources/apps/sample_apps/deepstream-test2/build/CMakeFiles/edit_cache.dir
-/opt/nvidia/deepstream/deepstream-5.1/sources/apps/sample_apps/deepstream-test2/build/CMakeFiles/deepstream-test2.dir
